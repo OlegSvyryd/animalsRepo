@@ -12,4 +12,3 @@
   6. Register as developer on https://www.google.com/recaptcha/admin.
   7. Register your domain in admin section on this site (https://www.google.com/recaptcha/admin#list).
   8. Fill reCAPTCHA properties in file.
-  9. 
